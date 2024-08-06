@@ -26,6 +26,7 @@ console.log(typeof name)
 console.log(typeof country)
 console.log(typeof isStreemer)
 console.log(typeof bestYoutuber)
+console.log(typeof Myid)
 console.log("Null type: " + typeof mobileNum)
 
 
