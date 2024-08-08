@@ -15,7 +15,7 @@ const secondName = "    gourabganguly  "
 console.log("After : " + secondName)
 console.log("Before: " + secondName.trim())
 
-
+ 
 
 const url = "https://gourab.com/25$gourabofficial.in"
 console.log(url.replace("25$", "-"))
