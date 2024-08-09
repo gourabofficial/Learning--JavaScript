@@ -7,7 +7,7 @@ console.log(myarr.indexOf(8))
 console.log(myarr2[1]);
 myarr2.push(144) 
 myarr2.pop()
-myarr2.unshift(100) // add atfirst index alwayes
+myarr.unshift(100) // add atfirst index alwayes
 myarr2.unshift(101) 
 myarr2.unshift(102) 
 // myarr2.shift()      // remove the first index value
